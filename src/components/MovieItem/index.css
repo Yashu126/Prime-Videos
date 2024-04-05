@@ -1,0 +1,12 @@
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.popup-background {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}

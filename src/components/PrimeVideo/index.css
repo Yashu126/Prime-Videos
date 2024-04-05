@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.background-con {
+  height: 100vh;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Roboto;
+  background-size: cover;
+}
+
+.prime-img {
+  height: 40%;
+  width: 100%;
+}
+
+.silder-con {
+  background-color: #000000;
+  padding: 10px 40px;
+}
